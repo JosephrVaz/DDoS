@@ -52,5 +52,5 @@ This project demonstrates the effectiveness of using autoencoders for DDoS attac
 
 
 ## License
+This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License. See the [LICENSE](./LICENSE) file for details.
 
-[MIT License](https://opensource.org/licenses/MIT)
